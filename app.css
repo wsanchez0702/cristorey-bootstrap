@@ -1,0 +1,15 @@
+.gray {
+    background-color: gray
+}
+
+.show-grid {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.show-grid [class^=col-] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #ddd;
+    border: 1px solid rgba(86,61,124,.2);
+}
